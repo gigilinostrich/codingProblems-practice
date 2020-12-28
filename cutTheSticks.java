@@ -31,6 +31,7 @@ public class cutTheSticks {
 				// minValue 2 i 2
 				// minValue 3 i 4
 				// minValue 4 i 7
+				//[1, 1, 2, 2, 3, 3, 3, 4]
 				sticksCut.add(arrCopy.size() - i); // it's like subtracting the minCount from the total size
 			}
 		}
