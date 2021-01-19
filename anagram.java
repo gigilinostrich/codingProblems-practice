@@ -4,6 +4,11 @@ public class anagram {
 
 	public static void main(String[] args) {
 		String s = "xulkowreuowzxgnhmiqekxhzistdocbnyozmnqthhpievvlj"; // 10
+		
+		// s = aaabbb // 3. replace all characters
+		// s = ab // 1
+		// s = mnop //2
+		// s = xyyx // 0
 		/*
 		 * For example, given the string 'abccde', you would break it into two parts:
 		 * 'abc' and 'cde'. Note that all letters have been used, the substrings are
