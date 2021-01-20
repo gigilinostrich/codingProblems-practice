@@ -10,7 +10,7 @@ public class buildPalindrome {
 	 * For st = "abcdc", the output should be buildPalindrome(st) = "abcdcba"
 	 */
 	public static void main(String[] args) {
-		String st = "abcabc"; // abaaba
+		String st = "abcabc"; // abcabcbacba
 
 		int len = st.length();
 
